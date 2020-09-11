@@ -10,3 +10,16 @@
 3. Build and run the model on Watson Studio
 4. Deploy the model created on Watson Studio on to Watson Machine Learning
 5. Connect the Model deployed to Watson Openscale and configure various model monitors like fairness, drift, accuracy
+
+## Notes
+
+To be added - ?features=v4
+
+Region url:
+Dallas: https://us-south.ml.cloud.ibm.com
+London - https://eu-gb.ml.cloud.ibm.com
+Frankfurt - https://eu-de.ml.cloud.ibm.com
+Tokyo - https://jp-tok.ml.cloud.ibm.com
+
+
+
